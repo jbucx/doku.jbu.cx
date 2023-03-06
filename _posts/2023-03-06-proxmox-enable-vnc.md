@@ -1,6 +1,6 @@
 ---
 title: How to enable VNC on Proxmox
-date: 2023-03-04 02:00:00 +100
+date: 2023-03-06 03:30:00 +100
 categories: []
 tags: [proxmox,vnc]     # TAG names should always be lowercase
 ---
