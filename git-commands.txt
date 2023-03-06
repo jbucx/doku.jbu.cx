@@ -1,7 +1,0 @@
-# Run site local
-bundle exec jekyll s
-
-# Publish
-git add .
-git commit -m "commit"
-git push
