@@ -1,0 +1,9 @@
+# add files
+git add .
+
+# commit
+git commit -m "Description"
+
+# push
+git push
+
